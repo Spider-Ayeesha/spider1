@@ -1,0 +1,7 @@
+this is branch tutorial:
+git branch -a
+git pull
+git checkout br_name
+file created
+checkout main
+merge:git merge br_name
