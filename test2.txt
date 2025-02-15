@@ -1,0 +1,2 @@
+This is 2nd file 
+just move the file from VS to github
